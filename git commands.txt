@@ -1,0 +1,16 @@
+
+1.Created a new folder on my Desktop and placed all my .sql files inside it.
+
+2. Open the folder using VS Code for easy access.
+
+3.Initialized a Git repository in VS Code Terminal - command:  git init    
+
+4.Connected the local repository to my GitHub repository using the command: git remote add origin https://github.com/Sulaiha754/Sulaiha_Hexaware 
+
+5.Added all files to the staging area with command :git add .
+
+6.Committed the changes-command:git commit -m "adding practicing"
+
+7.Pushed the files to github account- command : git push 
+
+8. Folder will be added to the github account.
